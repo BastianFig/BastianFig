@@ -1,9 +1,5 @@
 # ¡Hola! Soy Bastián 👋
 
-<div align="center">
-  <!-- Aquí está el gato waton jaja. Puedes cambiar el link por cualquier otro GIF que te guste -->
-  <img src="https://media1.tenor.com/m/8dTA0WCA99AAAAAd/cats-cat.gif" width="200" alt="Gato Waton">
-</div>
 
 Soy **Ingeniero Civil en Informática y Telecomunicaciones** y **Desarrollador Full Stack**. 
 Me dedico a construir plataformas empresariales, automatizar procesos comerciales y hacer que las interfaces sean intuitivas y los sistemas backend escalables. 
