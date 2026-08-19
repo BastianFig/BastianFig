@@ -1,4 +1,4 @@
-# ¡Hola! Soy Bastián 👋
+# ¡Hola! Soy Bastián <img src="https://media1.tenor.com/m/92MplgQwb80AAAAC/cat-meme-wave-emoji.gif" width="30" height="30" style="vertical-align: middle;" alt="wave">
 
 
 Soy **Ingeniero Civil en Informática y Telecomunicaciones** y **Desarrollador Full Stack**. 
